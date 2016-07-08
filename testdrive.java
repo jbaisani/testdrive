@@ -7,6 +7,6 @@ class testdrive{
 		// this will print the test script
 		char[] ch={'m','a','a'};
 		
-		System.out.println("test script"+ch.toString());
+		System.out.print("test script"+ch.toString());
 		}
 	}
