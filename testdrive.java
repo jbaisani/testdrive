@@ -5,6 +5,9 @@ class testdrive{
        
 	public static void main(String args[]){
 		// this will print the test script
-		System.out.print("test script");
+
+		
+		System.out.print(1);;
+
 		}
 	}
